@@ -48,7 +48,7 @@ tab1, tab2, tab3 = st.tabs(["Eingabe", "Informationen", "Auswertung"])
 with tab1:
     st.title(":red[Mein Blutdruck-Tagebuch]")
     #Informationsfeld zur Messung
-    st.info('Bevor Sie ihre Messung durchführen, sollten Sie sich in Ruhe 5 Minuten hinsetzten (für weiter Informationen siehe unten)', icon="ℹ️")
+    st.info('Bevor Sie ihre Messung durchführen, sollten Sie sich in Ruhe 5 Minuten hinsetzten', icon="ℹ️")
 
     st.subheader("Messwerteingaben")
 
