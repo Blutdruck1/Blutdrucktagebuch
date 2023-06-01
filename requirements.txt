@@ -1,3 +1,4 @@
 pandas
 pillow
+matplotlib
 streamlit_authenticator
